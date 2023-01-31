@@ -4,7 +4,7 @@
 
 В ходе проекта на основе исследовательского анализа необходимо сегментировать пользователей, а также рассчитать метрики для описания их поведения в приложении.  Проверить две статистические гипотезы, отражающие влияние на вовлечённость пользователей в приложение. По результатам исследования сформулировать базовые рекомендации, подготовить презентацию и дашборд.
  
-## Ссылка на дашборд - [ https://public.tableau.com/views/final_project_16698962637660/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link ]
+### Ссылка на дашборд - [ https://public.tableau.com/views/final_project_16698962637660/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link ]
 
 ## Используемые библиотеки
 *pandas*, *matplotlib*, *numPy*, *SciPy*, *plotly*
